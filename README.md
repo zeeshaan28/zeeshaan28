@@ -13,4 +13,4 @@ I have explored numerous real-world datasets, I have hands-on experience in Comp
 6. Data Structures and Algorithms
 7. SQL
 8. Flask
-9. Web technologies like HTML, CSS,
+9. Web technologies like HTML, CSS
