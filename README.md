@@ -7,10 +7,11 @@ I have explored numerous real-world datasets, I have hands-on experience in Comp
 
 1. Machine Learning
 2. Deep Learning
-3. Natural Language Processing
-4. Computer Vision
+3. Computer Vision
+4. Natural Language Processing
 5. Python
 6. Data Structures and Algorithms
 7. SQL
 8. Flask
-9. Web technologies like HTML, CSS
+9. Streamlit
+10. Web technologies like HTML, CSS
