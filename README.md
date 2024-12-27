@@ -1,22 +1,19 @@
 
 ### About Me
 
-Hello, I'm Zeeshaan Mohammed, a passionate machine learning engineer and aspiring data scientist. I'm currently pursuing a Master's in Computer Science at California State University, Los Angeles, where I'm immersing myself in the exciting world of AI and ML.
+Passionate Machine Learning Engineer with a strong foundation in AI, data science, and computer vision. I am driven to leverage Generative AI and data analytics to solve complex problems and develop innovative solutions.
 
-With a strong foundation in Python, Java, and SQL, I love to explore the endless possibilities that data-driven technologies offer. My journey in the field of machine learning has led me to develop scalable predictive models and delve into complex problem-solving. During my previous internships, I had the opportunity to contribute to cutting-edge projects, such as a human lurking detection system and a state-of-the-art facial recognition system.
+Recent Master's graduate in Computer Science with a specialization in Machine Learning at California State University, Los Angeles. I have a proven track record of success in building and deploying production-ready real-time machine-learning models across various domains.
 
-I'm an advocate for open-source collaboration and believe in the power of sharing knowledge.
+Key Skills & Expertise:
 
-When I'm not coding or diving into datasets, you can find me exploring new AI-driven applications, working on personal projects, or crafting innovative solutions to real-world challenges. I'm excited to connect with like-minded individuals, collaborate on exciting projects, and continue learning and growing in the ever-evolving field of data science and machine learning.
+Programming Languages: Python, Javascript, SQL
+Machine Learning & AI: TensorFlow, Keras, PyTorch, Langchain, LlamaIndex, ONNX, Scikit-Learn, OpenCV
+Data Science: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Pyspark, PowerBI
+Algorithms: Regression, Decision Tree, Neural Networks, Random Forest, PCA, SVM, XGBoost
+Software Development: Node.js, React.js, HTML, CSS, MongoDB, Flask 
+Tool & Technologies: AWS, Azure, Git/GitHub, Jira, Docker, Kubernetes, MLFlow, Hadoop
+
+Domain: Machine Learning, Data Science, Computer Vision, AI, Software Development,
 
 Let's code, learn, and innovate together! Feel free to explore my GitHub repositories and connect with me. 👨‍💻📊🚀
-
-
-## Technical Skills :
-
-1. Machine Learning
-2. Deep Learning
-3. Computer Vision
-4. Natural Language Processing
-5. Software Development
-6. Web technologies
